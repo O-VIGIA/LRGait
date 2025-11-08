@@ -95,7 +95,7 @@ To access **LRGait**, please fill out the **non-commercial usage request form**:
 📄 [Download Request Form (PDF)](link_to_pdf)
 
 After completing the form, send it to:
-📧 `lrgait-dataset@outlook.com`
+📧 `akawen@stu.xmu.edu.cn`
 
 Upon approval, you will receive:
 
