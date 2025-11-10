@@ -9,7 +9,7 @@ This repository provides the official implementation of the AAAI 2026 paper:
 > *[Zhiyang Lu et al.]*
 > Accepted at **AAAI 2026**
 
-[[📄 Paper (AAAI 2026)]](link_to_paper) • [[📊 Dataset Request Form (PDF)]](license
+[[📄 Paper (AAAI 2026)]](link_to_paper) • [[📊 Dataset Request Form (PDF)]](./license
 /LRGait_Dataset_Usage_Agreement_OnePage.pdf)
 
 ---
